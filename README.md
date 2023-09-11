@@ -1,4 +1,11 @@
 # Ventura-LMS
+![hero1](https://github.com/kkgaba686/Ventura-LMS/assets/122144843/bb32eaa1-47d0-4c3d-a4dd-5838234950a7)
+![hero2](https://github.com/kkgaba686/Ventura-LMS/assets/122144843/41dfe80c-0f5f-4450-ac1f-3c125c55b875)
+![hero3](https://github.com/kkgaba686/Ventura-LMS/assets/122144843/e023aef4-b60f-44a0-897c-2b3419dbb432)
+![hero4](https://github.com/kkgaba686/Ventura-LMS/assets/122144843/431ebd19-e844-4081-b180-1becad4225f2)
+
+
+
 
 Inspiration
 We were inspired by many other popular LMS's out there, such as Schoology LMS and Canvas LMS. However, these LMS's are often set out to solve a specific problem. That's why we created Ventura LMS, a Learning Management System that combines the positives of all popular LMN's out there into one great solution.
